@@ -27,5 +27,7 @@ A React SPA for managing camera lenses with filtering, sorting, and CRUD functio
 - apertureMin / apertureMax
 
 ## How to run
+```
 npm install
 npm run dev
+```
