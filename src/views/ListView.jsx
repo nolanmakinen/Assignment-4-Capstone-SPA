@@ -54,7 +54,7 @@ export default function ListView(){
       {context.items.length === 0 && (
         <div className="alert alert-info">No lenses added yet.</div>
       )}
-      {contextcontext.items.length > 0 && context.derived.length === 0 && (
+      {context.items.length > 0 && context.derived.length === 0 && (
         <div className="alert alert-warning">No results match your filters.</div>
       )}
       <div className="row g-3">
